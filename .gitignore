@@ -1,0 +1,13 @@
+# Windows and editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+*.tmp
+~$*
+# Python
+__pycache__/
+*.pyc
+# Never commit real secrets or real data
+.env
+*.pem
+*.key
